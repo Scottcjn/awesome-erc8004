@@ -245,6 +245,11 @@ ERC-8004 introduces **three lightweight, on-chain registries** that enable trust
 
 **[Cotten IO (Scypted)](https://twitter.com/CottenIO)**
 
+
+**[Elyan Labs / Beacon Protocol](https://github.com/Scottcjn/beacon-skill)** - 13-transport agent orchestrator with x402 compute marketplace. Bridges Beacon Protocol (Ed25519) and Conway Automaton (EVM/ERC-8004) identity systems. GPU compute endpoints (V100, POWER8, RTX 5070) accept x402 USDC micropayments. Beacon Atlas with 31+ agents and on-chain reputation.
+- [Compute Skill](https://github.com/Scottcjn/elyan-compute-skill) - Conway Automaton skill for GPU compute via x402
+- [Agent Card](http://50.28.86.131:8070/beacon/.well-known/agent-card.json) - x402-enabled agent card
+
 **Community Projects**
 
 - **[TrustlessAgents](https://github.com/CasualHackathon/TrustlessAgents)** - Community hackathon project implementing ERC-8004
